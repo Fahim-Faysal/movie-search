@@ -1,0 +1,20 @@
+#div {
+      display: grid;
+      grid-template-columns: repeat(3,1fr);
+      justify-items: center;
+}
+.inside{
+      /* border: 1px solid gray; */
+      /* text-align: center; */
+      font-size:xx-large;
+      margin-bottom: 200px;
+      width: 350px;
+      height: 300px;
+}
+.inside img{
+      max-width: 100%;
+      height: auto;
+}
+.head{
+      color: yellowgreen;
+}
